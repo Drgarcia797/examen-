@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
-<head> 
-<title>funciones de git hub </title>
-<body>.git add para agregar los cambios en general
-git branch para crear una nueva rama en la cual se puede hacer cambios sin temor a modificar la main u origen 
-git add (nombre del archvio a agregar) para anadir el archivo en especifico.
+<title>HTML Tutorial</title>
+<body>
 
-<title> Aplicacion github</title>
-<body> se evidencia el uso del git hub en el entorno de trabajo en equipo     
-funciones de git hub.
-</head>
+<h1>Funciones de git hub </h1>
+<p>.git add para agregar los cambios en general
+git branch para crear una nueva rama en la cual se puede hacer cambios sin temor a modificar la main u origen 
+git add (nombre del archvio a agregar) para anadir el archivo en especifico.</p>
+
+<Img src= https://th.bing.com/th?id=OIF.%2b2TF%2f0kjF3tEeP5zNVH9og&rs=1&pid=ImgDetMain
+><button type="siguiente"></button>
+
+</body>
 </html>
