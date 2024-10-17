@@ -1,17 +1,24 @@
 <!DOCTYPE html>
-<html>
-<title>HTML Tutorial</title>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funciones de GitHub</title>
+</head>
 <body>
 
-<h1>Funciones de git hub </h1>
-<p>.git add para agregar los cambios en general
-git branch para crear una nueva rama en la cual se puede hacer cambios sin temor a modificar la main u origen 
-git add (nombre del archvio a agregar) para anadir el archivo en especifico.</p>
+<h1>Funciones de GitHub</h1>
+<p>
+    <strong>git add</strong>: Agrega los cambios en general.<br>
+    <strong>git branch</strong>: Crea una nueva rama en la cual se pueden hacer cambios sin temor a modificar la rama principal.<br>
+    <strong>git add [nombre del archivo]</strong>: Añade un archivo específico.
+</p>
 
-<Img src= https://th.bing.com/th?id=OIF.%2b2TF%2f0kjF3tEeP5zNVH9og&rs=1&pid=ImgDetMain
+<img src="https://th.bing.com/th?id=OIF.%2b2TF%2f0kjF3tEeP5zNVH9og&rs=1&pid=ImgDetMain" alt="Imagen relacionada con GitHub" style="max-width: 100%; height: auto;">
 
-><button type="siguiente" ></button>
+<br><br>
 
+<button onclick="window.open('https://gist.github.com/dasdo/9ff71c5c0efa037441b6', '_blank')">Siguiente</button>
 
 </body>
 </html>
